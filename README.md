@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kotobus
-- 👀 I’m interested in C++ development
-- 🌱 I’m currently learning C++
 - 📫 How to reach me text me on sheran.cloud@gmail.com 
 
 <!---
